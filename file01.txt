@@ -14,3 +14,4 @@ Introdus de file original---------------------modificare ce tre sa treaca la for
 
 modifica per vedere se sacorge fetch
 O modificare dupa impacare
+Alta modif sin Git, sit corso-git
