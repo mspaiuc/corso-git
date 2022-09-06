@@ -16,3 +16,4 @@ modifica per vedere se sacorge fetch
 O modificare dupa impacare
 Alta modif sin Git, sit corso-git
 Modificare 11:36 din work directory
+Modificare 11:46 din sit
